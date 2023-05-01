@@ -4,5 +4,6 @@
 2. connect to athena and query data
 3. etl job in python
 4. save results to s3
-5. build tables on redshift
-6. copy data to redshift
+5. glue deployment
+6. build tables on redshift
+7. copy data to redshift
